@@ -1,5 +1,11 @@
 # Algorithm_Trading_reddit
 
+## Abstract
+
+네이버 증권 토론 항목으 게시글을 이용하여 해당 종목 주가 예측
+
+## 
+
 ## References
 - [pypi.org : pycor](https://pypi.org/project/pycor/)
 - [[Python] tomotopy로 쉽게 토픽 모델링 실시하기](https://bab2min.tistory.com/633)
