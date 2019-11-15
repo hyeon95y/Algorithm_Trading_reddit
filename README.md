@@ -15,3 +15,7 @@
 - [KoNLPy: 파이썬 한국어 NLP¶](https://konlpy-ko.readthedocs.io/ko/v0.4.3/)
 - [5 Heroic Python NLP Libraries](https://elitedatascience.com/python-nlp-libraries)
 - [TOP 10 PYTHON NLP LIBRARIES FOR 2019](https://analyticsindiamag.com/top-10-python-nlp-libraries-for-2019/)
+
+- [Natural Language Understanding with Sequence to Sequence Models](https://towardsdatascience.com/natural-language-understanding-with-sequence-to-sequence-models-e87d41ad258b)
+- [BERT for dummies — Step by Step Tutorial](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03)
+- [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
