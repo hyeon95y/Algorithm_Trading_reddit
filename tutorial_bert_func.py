@@ -2,11 +2,6 @@ import os
 import pickle
 import numpy as np
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> fbb3e1af1af2b19a35a9606674e8cb19f739f307
 DATA_DIR='data/ms-cntk-atis'
 
 # load Pickle file 
@@ -71,7 +66,4 @@ def load_atis(filename, add_start_end_token=False, verbose=True):
     slot_data = np.array(slot_data)
     intent_data_label = np.array(intent).flatten()
     return t2i, s2i, in2i, i2t, i2s, i2in, input_tensor, target_tensor, query_data, intent_data, intent_data_label, slot_data
-<<<<<<< HEAD
 
-=======
->>>>>>> fbb3e1af1af2b19a35a9606674e8cb19f739f307
